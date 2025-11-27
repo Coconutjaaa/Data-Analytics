@@ -4,3 +4,4 @@ Data Structure and Algorithm (python) -> Exam scheduling
 , Java with Object-Oriented programming (OOP) -> Parcel Delivery
 , Computer vision and Image processing -> CCTV-based missing item tracker
 , Data analytics -> analyzed dataset and database to find insight and do some visualizations
+, another project such as machine learning with statistic methods
